@@ -1,0 +1,1 @@
+{"DISPLAY":{"latitude":17.6583195,"longitude":75.9248021},"ROUTING":{"latitude":17.6583195,"longitude":75.9248021},"town":"New Pachha Peth","city":"Solapur","district":"Solapur","placeid":"356xjxn4-e62a853c3c35015c03385968daf6f44d","name":"Maulana Azhad Chowk","state":"Maharashtra","category":"300-3000-0232"}
